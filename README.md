@@ -17,4 +17,4 @@ With the database created(potentially tens of thousands of transcripts), we can 
 
 In this repository, you will see 3 sample transcripts.  You are required to write some codes to parse out these files correctly to return the following output:
 
-
+![Short answer](https://github.com/Lazigerbill/ruby_code_challenge/blob/master/shrtans.jpg "Short Answer")
