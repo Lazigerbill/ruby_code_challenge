@@ -1,0 +1,1093 @@
+
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+C - Citigroup Inc
+Q4 2011 Citigroup Inc. Earnings Conference Call
+January 17, 2012 / 03:30PM  GMT 
+
+================================================================================
+Corporate Participants
+================================================================================
+   *  John Andrews
+      Citigroup Inc. - Head of IR
+   *  Vikram Pandit
+      Citigroup Inc. - CEO, Citigroup
+   *  John Gerspach
+      Citigroup Inc. - CFO, Citigroup
+
+================================================================================
+Conference Call Participants
+================================================================================
+   *  Glenn Schorr
+      Nomura Asset Management - Analyst
+   *  John McDonald
+      Sanford C. Bernstein & Company, Inc. - Analyst
+   *  Guy Moszkowski
+      BofA Merrill Lynch - Analyst
+   *  Jim Mitchell
+      Buckingham Research Group - Analyst
+   *  Brendan Hopkins
+      UBS - Analyst
+   *  Matt O'Connor
+      Deutsche Bank - Analyst
+   *  Chris Kotowski
+      Oppenheimer & Co. - Analyst
+   *  Moshe Orenbuch
+      Credit Suisse - Analyst
+   *  Jason Goldberg
+      Barclays Capital - Analyst
+   *  Matt Burnell
+      Wells Fargo Securities - Analyst
+   *  Betsy Graseck
+      Morgan Stanley - Analyst
+   *  Steve Jue
+      RBC Capital Markets - Analyst
+   *  Todd Hagerman
+      Sterne, Agee & Leach, Inc. - Analyst
+   *  Mike Mayo
+      Credit Agricole Securities - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Hello and welcome to Citi's fourth quarter 2011 earnings review with Chief Executive Officer, Vikram Pandit, and Chief Financial Officer, John Gerspach. Today's call will be hosted by John Andrews, Head of Citi Investor Relations. We ask that you please hold all questions until the completion of the formal remarks. At which time you will be given instructions for the question-and-answer session. Also, as a reminder, this conference is being recorded today. If you have any objections, please disconnect at this time. Mr. Andrews, you may begin.
+
+--------------------------------------------------------------------------------
+ John Andrews,  Citigroup Inc. - Head of IR   [2]
+--------------------------------------------------------------------------------
+ Rachel, thank you. Good morning and thank everyone for joining us this morning. On our call today, Vikram Pandit, our CEO will speak first and then John Gerspach, our CFO, will take you through the earnings presentation which is available for download on our website, Citigroup.com. Afterwards we will be happy to take your questions. Before we get started, I would like to remind you that today's presentation may contain forward-looking statements which are based on Management's current expectations and are subject to uncertainty and changes in circumstances. Actual results in capital and other financial condition may differ materially from these statements due to a variety of factors, including the precautionary statements referenced in our discussion today and those included in our SEC filings, including without limitation, the risk factor section of our 2010 Form 10K. With that out of the way let me turn it over to Vikram.
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [3]
+--------------------------------------------------------------------------------
+ John, thank you and good morning, everybody. Thank you for joining us today. As you know, earlier today, we reported earnings of $1.2 billion in net income for the fourth quarter of 2011. This increased our net income for the year to $11.3 billion, up 6% from 2010. The fourth quarter was dominated by the macro environment and our earnings clearly suffered as a result. Market activity was down significantly and our clients reduced their risk. Any of our businesses geared to the capital markets such as Sales and Trading, Securities and Fund Services and GTS, and even Investment Sales and Consumer Banking were impacted. Investor activity was particularly weak in December as reflected in the volumes we experienced.
+
+ In light of the macro environment, we have been quite cautious. The situation in Europe is being driven by politics as much as anything else and given its inherent unpredictability, we have prudently derisked and hedged our exposures, actions which have further impacted our revenues. However, our consumer and non-markets related businesses continued to perform well as we executed our strategy. Throughout Citicorp, we grew our loans by 14% from 2010, including a 24% increase in corporate loans and GTS continued to show positive momentum with the full year revenue of 5% from 2010. Revenue from International Consumer Banking grew by 6% ex-FX for the year as we opened 3 million new accounts while increasing average loans and deposits on a constant dollar basis by $15 billion and $9 billion respectively. During the quarter, we achieved positive operating leverage in Latin America and again in Asia during the quarter.
+
+ In the US, customer accounts, deposits, loans and revenue each grew from the previous quarter. We continued to make progress in winding down Citi Holdings. We reduced Holdings assets by $90 billion during the year and after considering the impact of the transfer of retail partner cards into Citicorp, Holdings comprised only 12% of Citigroup's balance sheet. And as I indicated in December, we took a $400 million severance charge in the fourth quarter due to the reduction of approximately 5,000 positions. There were also other macro and episodic charges that John will go over in his presentation including FX, a Japan DTA write-down and increased legal and related expenses. We also didn't have the CVA/DVA benefit which had substantially increased our revenue in the third quarter.
+
+ As we know, the situation in Europe is having a global impact. We believe it will impact US GDP by somewhere of 0.5% to 1.5% and the emerging markets are being affected as well. The European banks have $40 trillion in total assets and they are deleveraging as a result and from what we understand, these banks hold 65% of emerging market debt and finance 80% of global trade finance, so the global banking system will need to step up and fill the void that comes from the deleveraging. As usual, the future isn't easy to predict but we believe we are prepared, despite the improved tone of the market so far this month and the positive signs coming from Europe, we will continue to maintain a cautious posture until the political aspects of the current situation are clear.
+
+ In 2011, our expenses were impacted by several factors, most significantly a weakened dollar added $800 million in FX while legal and related expenses were $1.3 billion higher than in 2010. These drove an increase in total expenses of just under 7%, but as you will see, our core operating expenses rose by 2.1%. This includes $3.9 billion in investments, $1.9 billion of which were funded through our ongoing expense reduction initiatives. The $3.9 billion in investments included approximately $1 billion to meet regulatory requirements. We also upgraded talent in both our institutional and consumer businesses. Other investments from modernizing our branches to increased marketing are necessary to attract and serve our clients better.
+
+ A few years ago, the Company had substantially reduced its spending on consumer marketing and in 2011, we increased that spending to competitive levels. These are longer cycle investments but they are starting to pay off through increases in our new account acquisitions in the US and the attaining of positive operating leverage in key EM consumer markets. That being said, I believe these increases in expense levels are behind us. We have a robust reengineering program and our goal is to self-fund new investments going forward. As a result of this and other actions, we currently expect to reduce our expenses by $2.5 billion to $3 billion in 2012 compared to the reported full year 2011 level, of course, excluding changes in FX or unanticipated legal costs or significant one-timers. We also continue to right size our businesses for the opportunities we see, particularly in Securities and Banking, so we're prepared whether the current environment proves to be a result of cyclical or secular trends. John will now go over the slides and I will come back later with him and would be happy to take your questions.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [4]
+--------------------------------------------------------------------------------
+ Thank you, Vikram, and good morning, everyone. Starting on Slide 2, on a full year basis Citigroup reported revenues of $78.4 billion in 2011. Operating expenses were $50.7 billion and credit costs were $12.8 billion down, over 50% from the prior year. Pretax income for 2011 was nearly $15 billion and net income was $11.3 billion or $3.69 per share. We earned $14.4 billion of net income in Citicorp with earnings in Asia and Latin America contributing roughly 50% of the total, and we significantly narrowed the net loss in Citi Holdings to $2.4 billion from $4.3 billion in the prior year.
+
+ Before I go into more detail, I'd like to spend a minute on significant items affecting the fourth quarter and comparable periods as shown on Slide 3. In addition to the difficult macro environment and our corresponding actions which Vikram described earlier, Citigroup's results reflect a number of firm specific items, several of which we previewed for you in early December. First, revenue comparisons are significantly skewed by credit spread related items. Citigroup's CVA and DVA were a negative $40 million in the fourth quarter of 2011 compared to a positive $1.9 billion last quarter and a negative $1.1 billion in the fourth quarter of last year. Also, in our lending business in Securities and Banking, we recorded hedge losses of nearly $300 million this quarter driven by spread tightening in our lending portfolio compared to hedge gains of nearly $650 million last quarter.
+
+ Second, we recorded significantly higher legal and related expenses as well as repositioning charges in the fourth quarter of 2011. Legal and related expenses were over $550 million in the fourth quarter, including an increase in reserves related to interchange litigation. Severance charges were over $400 million in the fourth quarter, more than double the amount of repositioning expenses in prior periods. Finally, this quarter, we recorded a $300 million charge to write-down the value of deferred tax assets in Japan as the result of a tax rate change. In addition to these items, our reported results were affected by foreign exchange translation as the US dollar generally strengthened in the fourth quarter against local currencies in which we generate revenues and incur expenses and credit costs. While FX translation had no material impact on our overall earnings for the quarter, it did affect individual line items and reported business drivers which I will discuss more as we go through the presentation.
+
+ On Slide 4, we show fourth quarter results. Citigroup reported fourth quarter net income of $1.2 billion or $0.38 per diluted share. Revenues of $17.2 billion were down 7% versus the prior year on a reported basis as growth in International Consumer Banking and transaction services was more than offset by lower revenues in Citi Holdings, Securities and Banking, and North America Consumer Banking. Expenses of $12.9 billion were up 4% year over year. Nearly two-thirds of the increase was attributable to the combination of higher legal and related costs as well as severance, partially offset by a positive impact from foreign exchange translation. Excluding these items, expenses were up 1.5% over last year principally due to higher investment spending, partially offset by productivity savings and other expense reductions. Cost of credit continued to improve year over year, down 41% to $2.9 billion. Year over year, Citigroup end of period loans were flat on a reported basis and up 1% excluding the impact of FX as continued loan growth in Citicorp out paced the wind down of Citi Holdings.
+
+ Turning now to Citicorp and Citi Holdings on Slide 5, Citicorp reported revenues of $14 billion and net income of $2.1 billion in the fourth quarter. Versus last year, Citicorp loans grew 14% on a reported basis including 7% growth in consumer and 24% growth in corporate loans. We grew loans in every business in Citicorp in the fourth quarter both year over year and sequentially. Citi Holdings reported revenues of $2.8 billion and a net loss of $806 million. Citi Holdings ended the year with $269 billion of assets down $20 billion during the quarter and $90 billion year over year. Adjusting for the first quarter transfer of retail partner cards into Citicorp, Citi Holdings would have ended the year with $225 billion of assets or 12% of total Citigroup assets.
+
+ On Slide 6, we show a nine quarter trend for Citicorp's results. Excluding CVA/DVA, Citicorp's revenues of $14.1 billion in the fourth quarter were down 8% from the prior year and down 11% from the prior quarter driven by lower revenues in Securities and Banking. As I discussed earlier, Securities and Banking results reflect nearly $300 million of hedge losses in our lending business in the fourth quarter compared to hedge gains of nearly $650 million last quarter. Excluding these hedge gains and losses, Citicorp revenues ex-CVA/DVA were down 5% sequentially. Operating expenses of $10.2 billion were up 8% versus the prior year. Nearly 50% of the increase was attributable to the combination of higher legal and related costs as well as severance, partially offset by a positive impact from foreign exchange translation. Excluding these items, expenses were up 4% over last year primarily driven by higher investment spending, mostly in Consumer Banking and operations and technology partially offset by productivity savings and other expense reductions.
+
+ Citicorp's net credit losses were $1.9 billion down 29% from the prior year driven by Citi branded cards in North America. We released $699 million in net loan loss reserves, down from $741 million last year, as higher net releases in Citi branded cards were more than offset by lower releases in the corporate portfolio and a small net build in International Consumer Banking. Excluding CVA/DVA, earnings before taxes of $2.7 billion were down 31% versus last year driven by lower revenues as higher operating costs were largely offset by the lower cost of credit.
+
+ Slide 7 shows the results for North America Consumer Banking. Revenues of $3.5 billion were down 2% versus last year driven by card revenues reflecting the continued impact of the look back provisions of Card Act and a decline in average card loans partially offset by an increase in mortgage revenues. Expenses of $2.1 billion were up 31% year over year and 13% sequentially driven in part by an increase in legal reserves related to interchange litigation. Excluding this reserve increase, expenses were up modestly versus last quarter as we continued to make investments in our North America consumer franchise. Credit costs declined 74% from last year to $372 million. Net credit losses were down 41% to $1 billion driven by Citi branded cards and the net reserve release was $681 million this quarter compared to $348 million in the prior year.
+
+ Earnings before tax, excluding the impact of loan loss reserves, grew by 82% year over year to $386 million in the fourth quarter. Overall, we continued to see signs of progress in our North America consumer business. Sequentially, for the third consecutive quarter, we grew our total revenues, card accounts, and end of period card loans. Purchase sales grew 2% year over year and card accounts were up 4%. Average deposits were up 2% year over year and retail loans were up over 25%.
+
+ Turning to our International Consumer Banking businesses on Slide 8, first as Vikram mentioned, both Asia and Latin America achieved positive operating leverage in the fourth quarter. In total, International Consumer Banking revenues grew 2% versus last year while expenses remained flat. The dollar generally appreciated in the fourth quarter resulting in a negative impact on reported revenues. On a constant dollar basis, revenues grew 6% year over year and 2% from the third quarter with sequential growth in both Asia and Latin America. Overall, revenue growth continued to reflect improvement in most underlying drivers offset by spread compression.
+
+ Accounts grew 4% year over year and on a constant dollar basis, we grew average deposits, average loans and purchase sales in every region in the fourth quarter, both sequentially and year over year. Investment sales were lower, however, reflecting weaker investor sentiment in the face of a continued challenging macroeconomic environment in the fourth quarter. Expenses of $2.9 billion in the fourth quarter were roughly flat versus last year including a benefit from FX translation, partially offset by higher severance charges. Excluding these items, expenses were up roughly 3% over last year as we are now beginning to lap our higher levels of investment spending in Asia and Latin America in the second half of 2010.
+
+ Credit costs were $787 million in the fourth quarter as compared to $593 million last year while net credit losses declined 10% to $683 million, we recorded a small net reserve build of $72 million in the fourth quarter principally due to portfolio growth versus a net release in the prior year. We continued to grow our international consumer loans in a disciplined manner. As we discussed in more detail on last quarter's call. We believe the underlying credit quality of the portfolio has remained stable to improving.
+
+ Earnings before tax, excluding the impact of loan loss reserves, grew 19% year over year to $1.1 billion and on Slide 9, we show growth trends for International Consumer Banking in more detail. On a constant dollar basis, average loans grew 13% over the prior year. Average deposits were up 6% and purchase sales grew 11% in the fourth quarter. As reported, on a trailing 12 month basis, we have grown both net credit margin and pretax earnings, excluding the impact of loan loss reserves, each quarter for over two years.
+
+ Slide 10 shows our Securities and Banking business. As I mentioned earlier, revenue comparisons for Securities and Banking in the fourth quarter are difficult given the swings in CVA and DVA and the $939 million sequential change in hedge results in our lending business. Excluding only CVA/DVA, revenues of $3.3 billion were down by nearly a third on both the year over year and a sequential basis. If we also exclude the sequential impact of lending hedges, revenues were down by 15% from the third quarter with particular weakness in the last three weeks of December.
+
+ In Investment Banking, revenues of $638 million were down 13% sequentially driven by lower activity levels across all products. Ex-CVA/DVA, equity market revenues of [$232] million were down 20% sequentially driven by a decline in market volumes globally which resulted in lower cash equity revenues. This was partially offset by narrowing losses in proprietary trading where the wind down is now complete. We also continued to experience weak trading results in our equity derivatives business. Fixed income market revenues ex-CVA/DVA were down 24% sequentially to $1.7 billion.
+
+ We continue to experience pressure in credit and securitized products in the fourth quarter. In rates and currencies, G-10 products also declined from a strong third quarter although this was partially offset by growth in emerging markets products. Lending revenues were $164 million, down from $1 billion last quarter driven by the sequential change in hedge results I discussed earlier. Private bank revenues excluding CVA/DVA were down 5% sequentially to $517 million mainly driven by lower capital markets activity. Total operating expenses of $3.7 billion were up 2% from last year and 4% sequentially driven mainly by severance charges. Absent severance, expenses would have been down 4% versus last year driven by lower incentive compensation and a positive impact from FX and sequentially, expenses would have been roughly flat. Credit costs were $69 million in the fourth quarter versus a benefit of $60 million last year.
+
+ Moving to transaction services on Slide 11. Revenues of $2.6 billion were up 2% from the fourth quarter of last year as strong growth in Treasury and Trade Solutions more than offset a decline in Securities and Fund Services. Treasury and Trade Solutions was up 7% primarily due to higher trade revenues and increased deposits, partially offset by the impact of the continued low rate environment and FX. Securities and Fund Services was down 10% year over year driven by lower settlement volumes, spread compression, and the impact of FX. While lower Securities and Fund Services revenues reflected the overall capital markets environment, most underlying drivers for Transaction Services continued to show momentum.
+
+ Average trade loans were up over 50% from last year. Average deposits were up 4% and on a constant dollar basis, Assets Under Custody were also up year over year with good in flows in our custody assets. Expenses of $1.5 billion were up 14% versus last year mainly due to investment spending as well as severance and higher legal and related costs. Sequentially, the 4% expense increase was primarily due to severance and higher legal and related costs as our level of investment spending is beginning to flatten quarter over quarter.
+
+ On Slide 12, we show a nine quarter trend for Citi Holdings. The loss in Citi Holdings was $806 million in the fourth quarter, flat with the prior quarter and down from a loss of over $1 billion last year. Revenues were down 30% year over year to $2.8 billion due primarily to lower assets. Operating expenses of $2.2 billion were down 8% versus last year. Total credit costs were down 43% to $1.6 billion.
+
+ Looking at Citi Holdings in more detail on Slide 13. Revenues in brokerage and asset management were $43 million this quarter, down from last year due to a lower contribution from the Morgan Stanley/Smith Barney joint venture. In Local Consumer Lending, revenues were down 13% versus last year to $3 billion driven by declining loan balances. In the Special Asset Pool, revenues were negative $234 million in the fourth quarter.
+
+ Net interest revenue was negative $94 million as interest earning assets continued to represent a smaller portion of the Special Asset Pool while we continued to incur funding costs on the total portfolio. Non-interest revenue was negative $140 million driven by realized net losses in other marks during the quarter as compared to net gains in the prior year. Operating expenses were down 8% year over year to $2.2 billion mainly due to declining assets, partially offset by higher legal and related costs. Sequentially, expenses were up 4% due to higher legal and related costs driven by the mortgage business as well as an increase in interchange litigation reserves. Credit costs were down 43% year over year to $1.6 billion as credit trends continued to improve in both the consumer and corporate portfolios. Total net credit losses were down 47% to $2.2 billion and we released $767 million of net loan loss reserves in Citi Holdings.
+
+ Slide 14 shows Citi Holdings assets. We ended the quarter with $269 billion in Citi Holdings or 14% of total Citigroup assets. The $20 billion reduction in the fourth quarter was comprised of nearly $12 billion of asset sales in business dispositions, approximately $7 billion of net run-off and pay downs, and nearly $2 billion of net cost of credit and net asset marks.
+
+ Slide 15 shows the results for the corporate other segment. Revenues of $384 million were up significantly from last year mainly driven by hedging activities partially offset by lower investment yields and lower gains on sales of AFS Securities. Expenses were down by $82 million versus last year, mainly due to lower legal and related expenses. Assets of $286 billion included approximately $95 billion of cash and cash equivalents and $130 billion of liquid available for sale securities.
+
+ Turning to total Citigroup expenses on Slide 16. For full year 2011, expenses totaled $50.7 billion, up nearly 7% from $47.4 billion in 2010. In both 2010 and 2011, expenses included episodic legal and related costs as well as repositioning charges. In order to better compare the core operating expense growth year over year, we have isolated these items as well as the impact of foreign exchange. In 2010, expenses of $47.4 billion included approximately $700 million of episodic legal and related costs and roughly $500 million of repositioning charges and the year over year impact of foreign exchange was roughly $800 million. Adjusting for these items, core operating costs on a constant dollar basis were roughly $47 billion in 2010.
+
+ In 2011, investment spending was roughly $3.9 billion higher for the full year and we funded nearly 50% of these investments with efficiency savings of $1.9 billion. All other variances in core operating costs including higher volume related expenses in Citicorp were more than offset by lower costs in Citi Holdings. Therefore, on a constant dollar basis, core operating expenses of $48 billion in 2011 were approximately $1 billion or just over 2% higher versus the prior year. In 2011, episodic legal and related costs were roughly $2 billion and repositioning charges were around $700 million bringing total expenses up to $50.7 billion. While some level of episodic expenses will likely continue in 2012, we remain highly focused on managing our core operating expense trends.
+
+ Slide 17 shows total Citigroup net credit losses and loan loss reserves. NCLs continued to improve in the fourth quarter down 9% sequentially to $4.1 billion and the net LOR release was $1.5 billion, up slightly from the third quarter. We ended the quarter with $30.1 billion of total loan loss reserves and our LLR ratio was 4.7%. Consumer NCLs declined 7% sequentially to $4 billion and we released $1.2 billion in net loan loss reserves. Corporate credit was a benefit of $158 million in the fourth quarter compared to a cost of $86 million last quarter on lower net credit losses and a higher reserve release. Total non-accrual loans represented 1.7% of total loans at year-end, down from nearly 3% at the end of 2010.
+
+ Slide 18 shows our international consumer credit trends which generally remained stable to improving in Citicorp in the fourth quarter as loans continued to grow. In Asia, the NCL rate remained stable in the 1% range in the fourth quarter and 90 plus day delinquencies were lower than last quarter. In Latin America, the sequential NCL rate increase reflects the impact of adjustments primarily in cards to conform loss recognition procedures in Central America. Excluding these adjustments, the NCL rate would have been stable in the fourth quarter and delinquency rates continued to improve. In Local Consumer Lending in Citi Holdings, the sequential decline in loans and the uptick in delinquencies in the fourth quarter mainly reflect the announced sale of our retail banking business in Belgium as these loans were moved into other assets held for sale.
+
+ On Slide 19 we show our North America card portfolios. In Citi branded cards the NCL rate continued to improve in the fourth quarter down 63 basis points sequentially to 5.3% and 90 plus day delinquencies were down to 1.3%. In retail partner cards the NCL rate improved to 7.3% this quarter and 90 plus day delinquencies remain stable.
+
+ On Slide 20, we show the North America mortgage portfolio in Citi Holdings split between residential first mortgages and home equity loans. NCLs improved in both portfolios in the fourth quarter, although as we have previously discussed, the pace continued to moderate. In residential first mortgages, we ended the quarter with nearly $68 billion of loans, down 16% from a year ago. Net credit losses were down 6% sequentially to $412 million. As we discussed last quarter, overall delinquency trends are beginning to show the impact of re-defaults of previously modified mortgages, while at the same time, the pace of asset sales and modifications has slowed. Sales of delinquent mortgages for example, declined to nearly $300 million in the fourth quarter from roughly $500 million in the prior quarter. These converging trends drove an increase in 90 plus day delinquencies in the fourth quarter up $260 million to $4.1 billion. Early stage delinquencies in this portfolio, however, actually improved quarter over quarter.
+
+ Importantly, re-default rates for HAMP and other modifications continued to track favorably versus expectations through the fourth quarter, with expectations for re-defaults and a resulting increase in net credit losses already factored into our net loan loss reserve balance. In home equity loans, we ended the quarter with $40 billion of loans down 12% from a year ago. Net credit losses were down 2% sequentially to $533 million in the fourth quarter. 90 plus day delinquencies were flat versus the prior quarter at $1 billion while early stage delinquencies improved. Overall, the pace of improvement in our home equity NCLs and delinquencies has slowed and we are watching these trends closely. We continued to allocate roughly $10 billion of our total loan loss reserves to North America Real Estate Lending and Citi Holdings or 31 months of coincident NCL coverage.
+
+ Now, let me close with some comments about 2012. Clearly, the operating environment continues to be extraordinarily challenging in a number of businesses, none more so than Securities and Banking. While we have seen some pick up in activity in the first weeks of January, the macro uncertainty that has dominated the securities market still remains unresolved and that largely reflects the ongoing overhang of the Euro zone crisis. As Vikram noted we reduced our risk in the fourth quarter and we saw both institutional and retail clients do likewise which contributed to meaningfully lower levels of activity across markets and regions. While we firmly believe that Europe has the financial wherewithal to solve the sovereign crisis, any resolution will be a political process which continues to be uncertain and unpredictable, so until the markets believe that an achievable comprehensive resolution to the European sovereign debt crisis has been structured, the macro uncertainty that has dominated investor activity will likely remain an issue.
+
+ Now, the challenges in Europe are not all bad news for us. The significant deleveraging of the European banks is creating meaningful competitive opportunities in a number of businesses, particularly in transaction services as European banks are pulling back from serving many clients in key businesses they historically dominate like trade finance, and we are pursuing those opportunities but doing so in a cautious manner as we continue to support our clients while maintaining a tight risk profile. Given the ongoing headwinds in Securities and Banking, we remain very focused on expenses and as Vikram mentioned also on ensuring our capacity is aligned with the opportunities that we see. For 2012, we currently expect that Citigroup's full year operating expenses, excluding the impact of foreign exchange and any significant episodic items, will be between $2.5 billion to $3 billion lower than the reported 2011 expenses of $50.7 billion.
+
+ Turning to our other businesses, in Transaction Services, we expect revenues to continue to grow at a moderate pace despite the low interest rate environment and we are reaffirming our expectation that Transaction Services will achieve positive operating leverage by the second or third quarter of this year. In North America Consumer Banking, we expect consumer credit to continue improving but at a slowing pace in 2012. We are seeing positive trends in this business as we have completed much of the portfolio derisking undertaken following the crisis. We are beginning to see the benefit of our investment spending as card accounts, purchase sales, and loans have all stabilized and are now beginning to grow. We believe this will drive positive operating leverage by the end of 2012.
+
+ In International Consumer Banking, we had positive operating leverage overall this quarter as both Latin America and Asia generated positive operating leverage building on the momentum started by Asia in the third quarter. While we are seeing some slowing in certain drivers like investment sales in Asia, reflecting again the cautious sentiment of even retail investors, broadly speaking we continue to see growth in loans, deposits, purchase sales, and accounts in virtually every region. In Citi Holdings, the transfer of retail partner cards business will result in approximately $45 billion of assets including $41 billion of loans moving to Citicorp. As a result of this transfer, earnings in Citi Holdings will be lower going forward as the cards business was the single source of meaningful profitability in Local Consumer Lending segment in Citi Holdings. Nonetheless we are reaffirming our prior guidance that existing reserves plus expected pre-provision net revenue in the Local Consumer Lending business remained sufficient to cover expected lifetime losses in the remaining LCL portfolio.
+
+ We continue to believe mortgage related issues are the single largest source of risk facing the US banking industry. While we expect our overall delinquencies to rise slightly in coming quarters as some previously modified mortgages start re-defaulting, to date, those re-default rates remain below our expectations. Despite the expected delinquency increase, we saw some positive signs in early bucket mortgage delinquencies this quarter that we will continue to watch carefully. In the meantime, litigation and regulatory risk in the mortgage business will remain high and we continue to focus on further reducing our portfolio. So in summary, the uncertain macro environment will continue to be a meaningful headwind for our Securities and Banking business but our consumer businesses and Transaction Services should continue to exhibit growth and we will continue to wind down Citi Holdings in an economically rational manner. With that, Vikram and I would be more than happy to take your questions.
+
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ (Operator Instructions)
+
+ Glenn Schorr, Nomura.
+
+--------------------------------------------------------------------------------
+ Glenn Schorr,  Nomura Asset Management - Analyst   [2]
+--------------------------------------------------------------------------------
+ Hi, thanks very much.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [3]
+--------------------------------------------------------------------------------
+ Hi, Glenn.
+
+--------------------------------------------------------------------------------
+ Glenn Schorr,  Nomura Asset Management - Analyst   [4]
+--------------------------------------------------------------------------------
+ Just you gave a lot of comments around expenses so I appreciate that. When you were talking about the year on year potential pullback of $2.5 billion to $3 billion, could you give a thought on A -- geography and I don't mean that international, I mean more by business, meaning it looks like you're still growing all the consumer businesses and what you want to come out of the international franchise is there, it leaves me thinking the IB might be one of the sources of funds, so just curious there.
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [5]
+--------------------------------------------------------------------------------
+ Yes, I'm not going to go into individual business guidance at this point in time, Glenn, all right?
+
+--------------------------------------------------------------------------------
+ Glenn Schorr,  Nomura Asset Management - Analyst   [6]
+--------------------------------------------------------------------------------
+ Okay, let's attack it maybe a little differently. In the S&B, you talked about focus on aligning capacity and the size of the opportunities. This has been obviously a tough market and there are cyclical pressures as you mentioned but how do you get your arms around the rule changes happening and then the revenue environment falling, how do you weigh that cyclical versus secular and what's the timing on making those decisions because it has a big impact on how you size the infrastructure.
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [7]
+--------------------------------------------------------------------------------
+ I think that's right, Glenn, and certainly, by all means, trying to parse out secular versus cyclical is not easy and I think we've tried to do that this quarter two different sets of actions. The cyclical aspect obviously we've addressed through compensation on the secular side, some of the restructuring reserves that we've taken and the positions we eliminated try to get at that secular aspect off the markets. Now if you kind of think about the environment, there are still some significant overhangs and that's notwithstanding the fact that the market activities this year so far have been significantly better than fourth quarter. They are still running below the first quarter of last year but there are questions out there. Questions such as how is the Greek situation going to be resolved and it's March 20th and that's before the fiscal comp back gets signed. These are all the kinds of situations that are still out there which suggest that it's very hard to parse out exactly what part of the activity we're seeing is because of the cyclical situation versus how much of secular. Now there's no magic answer to that except I can tell you we are keenly watching that and we'll make whatever changes we need to make.
+
+--------------------------------------------------------------------------------
+ Glenn Schorr,  Nomura Asset Management - Analyst   [8]
+--------------------------------------------------------------------------------
+ So I guess I'm sure you all get the same thing I get from investors and probably your Board too of trying to understand what you have at your finger tips in the capital markets business, that's fixed versus incentive comp and I don't know if you can talk towards that but I still want to get towards the timing because I don't have the crystal ball either but the investor base wants to know an action plan. Can, in 2012 do you think we'll see either an improvement in activity or something more material on the structure of the business?
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [9]
+--------------------------------------------------------------------------------
+ I think, I hope that 2012 is the year where we get the European overhang out of here and that would be a significant shift that would then allow one to gauge what's happening on a much more normalized basis and with that in mind, we're certainly thinking about 2012 as the year where you won't make a lot of those decisions. And having said that again, I want to go back to saying that the actions we've taken so far are our best view as to what reflects the secular actions we need to take. As I said again, we'll keep monitoring it and if that changes, we'll take those decisions.
+
+--------------------------------------------------------------------------------
+ Glenn Schorr,  Nomura Asset Management - Analyst   [10]
+--------------------------------------------------------------------------------
+ Okay, and then just final quick one. On international consumer, I know it gets messed up a little bit with FX, and what's constant dollar, but you mentioned a little bit of slowing in Asia investment sales. Is everything else on the international consumer engine still growing and headed in the right direction in your mind, simple answer?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [11]
+--------------------------------------------------------------------------------
+ Absolutely.
+
+--------------------------------------------------------------------------------
+ Glenn Schorr,  Nomura Asset Management - Analyst   [12]
+--------------------------------------------------------------------------------
+ Super. I appreciate it.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [13]
+--------------------------------------------------------------------------------
+ Not a problem, Glenn.
+
+--------------------------------------------------------------------------------
+Operator   [14]
+--------------------------------------------------------------------------------
+ John McDonald, Sanford Bernstein.
+
+--------------------------------------------------------------------------------
+ John McDonald,  Sanford C. Bernstein & Company, Inc. - Analyst   [15]
+--------------------------------------------------------------------------------
+ Yes, hi.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [16]
+--------------------------------------------------------------------------------
+ Hi.
+
+--------------------------------------------------------------------------------
+ John McDonald,  Sanford C. Bernstein & Company, Inc. - Analyst   [17]
+--------------------------------------------------------------------------------
+ John, could you give us a little feel for what drove the increase in legal reserves for the interchange issue?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [18]
+--------------------------------------------------------------------------------
+ Well, as we take a look at what our potential exposure is under the interchange litigation, we needed to increase the level of reserve that we had.
+
+--------------------------------------------------------------------------------
+ John McDonald,  Sanford C. Bernstein & Company, Inc. - Analyst   [19]
+--------------------------------------------------------------------------------
+ Okay, so you're just looking ahead to the case that will come into court I guess in September of this year?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [20]
+--------------------------------------------------------------------------------
+ I'm not quite sure what the date is. I know it's later this year.
+
+--------------------------------------------------------------------------------
+ John McDonald,  Sanford C. Bernstein & Company, Inc. - Analyst   [21]
+--------------------------------------------------------------------------------
+ Okay, and then on net interest income and the margin, this quarter we saw the net interest margin percentage up but your average earning assets down. A little bit of color on what happened this quarter and then just some thoughts on the outlook for net interest income and margin please?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [22]
+--------------------------------------------------------------------------------
+ Yes, from a NIM point of view, as you note, our net interest margin improved by about 7 basis points this quarter but a lot of that was driven probably about 5 basis points of the 7 basis point increase was really driven by the fact that we took down our trading assets. And trading assets have got some component of interest earning assets in there. We tended to take down the lower, those trading assets with the lowest earning rate, so I would look at that as almost being like a one off benefit that we got this quarter, John. I would anticipate that with some modest growth again in our trading assets, we'll probably be back to a 285 NIM ratio next quarter give or take 1 or 2 basis points.
+
+--------------------------------------------------------------------------------
+ John McDonald,  Sanford C. Bernstein & Company, Inc. - Analyst   [23]
+--------------------------------------------------------------------------------
+ Okay, and in terms of growing net interest income, you've had some loan growth across the franchise. What will be the key to your ability to grow net interest income this year?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [24]
+--------------------------------------------------------------------------------
+ Well don't forget, you still are fighting a couple of trends. We're able to grow loans but we still in Citicorp, we still have those Citi Holdings loans coming off the books and the Citi Holdings loans tend to have, with the exception of student lending, those Citi Holdings loans have got some higher spreads than the loans that we're building on Citicorp. So we're still going to be having a little bit of a fight as far as just swimming upstream a little bit working our way through the reductions in Citi Holdings and offset by Citicorp and then we're still existing in a very low interest rate environment so it's hard to point right now to solid growth trends in net interest margin. I think you can say at this point in time that we feel pretty good that absent that one-time benefit that you see this quarter that NIM should roughly stabilize.
+
+--------------------------------------------------------------------------------
+ John McDonald,  Sanford C. Bernstein & Company, Inc. - Analyst   [25]
+--------------------------------------------------------------------------------
+ Okay, and then also a different question on the DTA. Could you update us whether you consumed or built DTA this quarter on a net basis and what your expectations might be to recapture DTA in 2012?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [26]
+--------------------------------------------------------------------------------
+ Yes, fine, John. This quarter, we would have generated additional DTA, so in your parlance we would have built DTA. I think the important thing for DTA is to look where we are on a full year basis. We started the year at about $52 billion of DTA. We'll end the year at about $51 billion but more importantly, as we've discussed in the past, are the real components of the DTA, and as you'll recall last year, and you'll see this laid out in more detail when we publish our K, when you looked at that portion of the DTA that really reflected US federal DTA, it had a sizeable component in it, about $4 billion compromising NOL carry forwards. And what we were able to do this year is we've been able to completely utilize that NOL carry forward so that will leave us in 2012 now able to address the monetization of the carry forward deferred or the foreign tax credits. As you may recall, we can't begin to utilize the foreign tax credits until we worked our way through the carry forward NOL, and it's the foreign tax credits that tend to expire more near term. We have some of those coming off expiring in '17 and '18 so it was important from our point of view to work our way through the NOL this year and now we'll be able to address the utilization of those carry forward foreign tax credits beginning in 2012.
+
+--------------------------------------------------------------------------------
+ John McDonald,  Sanford C. Bernstein & Company, Inc. - Analyst   [27]
+--------------------------------------------------------------------------------
+ Okay, so even though the total DTA only came down by $1 billion for a year you did get that $3.5 billion or $4 billion of NOLs you were shooting for?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [28]
+--------------------------------------------------------------------------------
+ Yes. As we said there's two different things to look at with DTA. One is the overall gross amount of the DTA, but almost more importantly are those component pieces. And so while the gross amount only came down by that $1 billion, I think that we significantly improved the mix of the remaining DTA by removing that NOL carry forward.
+
+--------------------------------------------------------------------------------
+ John McDonald,  Sanford C. Bernstein & Company, Inc. - Analyst   [29]
+--------------------------------------------------------------------------------
+ Okay, and last thing for me. I know you can't get into specifics but if you or Vikram could just talk about what your goals and hopes are for capital return this year and what you hope to be able to do after the stress test and what your goals are in terms of what the stress test will show for Citigroup?
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [30]
+--------------------------------------------------------------------------------
+ Yes, again, a lot of that we submitted early this year to the Fed. They've got our stress test under their scenarios. They've got our capital creation projections this year, they also have our capital return requests built in there as well. And what I would say to you is that we continue to have the same goals that I mentioned before which is that this will be the year that we'll start returning capital. We also have the same goals in terms of getting the capital above 8% by the end of the year and none of those things have changed except that the filings gone into the regulators and now all of us are just going to have to wait and see exactly when the response comes back.
+
+--------------------------------------------------------------------------------
+ John McDonald,  Sanford C. Bernstein & Company, Inc. - Analyst   [31]
+--------------------------------------------------------------------------------
+ Okay, thank you.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [32]
+--------------------------------------------------------------------------------
+ Thank you, John.
+
+--------------------------------------------------------------------------------
+Operator   [33]
+--------------------------------------------------------------------------------
+ Guy Moszkowski, Banc of America Merrill Lynch.
+
+--------------------------------------------------------------------------------
+ Guy Moszkowski,  BofA Merrill Lynch - Analyst   [34]
+--------------------------------------------------------------------------------
+ Good morning.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [35]
+--------------------------------------------------------------------------------
+ Good morning, Guy.
+
+--------------------------------------------------------------------------------
+ Guy Moszkowski,  BofA Merrill Lynch - Analyst   [36]
+--------------------------------------------------------------------------------
+ Just a follow up on that question, you've obviously targeted 8% to 9% Basel III capital ratio by the end of this year for some time. Given the uncertainty in Europe, the challenging global growth outlook that you've kind of talked about and just picking up on what you just said about above 8%, should we be assuming that your target is sort of to the low end of that 8% to 9% range right now?
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [37]
+--------------------------------------------------------------------------------
+ You know, again, it's hard to when we say 8% to 9%, it is 8% to 9% and that's clearly true. Obviously we, and all of us, are aware of the environment we're going through and we are still targeting in between that 8% to 9%, some of it depends upon a number of other actions that we've planned as well so it's a little early to guide you to any one particular point.
+
+--------------------------------------------------------------------------------
+ Guy Moszkowski,  BofA Merrill Lynch - Analyst   [38]
+--------------------------------------------------------------------------------
+ Okay, and then just if I can go back to the discussion of expenses, I recognize that you don't at this point want to be pigeon holed into where you're going to target some of these expense reductions that you're talking about. But in Citi Holdings in the Local Consumer Lending group in particular, is it fair to say that the reduction in expenses as the assets have come down has been slower than you might have expected and is there anything that you can do as you continue to get a reduction in the portfolio there besides the transfer of assets that we should think might accelerate the reduction in the cost that you have against those pretty unproductive assets?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [39]
+--------------------------------------------------------------------------------
+ Yes, Guy that's a great question. There's several things that you need to think about when it comes to the Holdings expense levels because you're right. Assets came down 25% in Holdings during the course of the year. Expenses came down something on the order of 8% or so, but you need to think in terms of, one, we did have some increased episodic legal and related expenses in Citi Holdings this year. That probably added $0.5 billion to the expense base so it's hard to say that we could drive expenses down and absorb those increased episodic legal expenses.
+
+ The second thing is as we, after we made the decision to move the retail partner cards business back into Citicorp, we certainly increased the level of investment spend that we were making in that business, so you'll see some adjustment in the Holding levels, Holdings expense levels as we move retail partner cards out as well, and we'll do that on a full restatement basis so that we'll take the history out so that you'll get a cleaner history of Holdings. The third aspect of that is we have had some incremental level of expenses in our residential mortgage business this year as we have put on additional headcount to meet the terms of the consent order that all the banks signed with the regulators earlier this year. So that's had somewhat of a modest impact on the expenses themselves. And then the last factor and I'm sorry to drag you through every little factor is, as we sell businesses in Holdings, and that's everything from the student loan business and others things that we've conducted, normally, there's a transition period. We did this with auto loans, we do it with student loans. There's a transition period where we continued to support the transferred business. Now, we get paid for that support but what we get paid comes in through the revenue line while the expenses remain in our expense line, so all of that tends to mask what you should really begin to see as the reduction in those Holdings expenses. I still feel very confident that after we move out partner cards and if you can adjust for some of these things like these ongoing service levels activity, you'll see that expenses are coming down, closely aligned with the reduction in assets.
+
+--------------------------------------------------------------------------------
+ Guy Moszkowski,  BofA Merrill Lynch - Analyst   [40]
+--------------------------------------------------------------------------------
+ That's actually very helpful. I appreciate the detail. Thanks so much.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [41]
+--------------------------------------------------------------------------------
+ Not a problem, Guy.
+
+--------------------------------------------------------------------------------
+Operator   [42]
+--------------------------------------------------------------------------------
+ Jim Mitchell, Buckingham Research.
+
+--------------------------------------------------------------------------------
+ Jim Mitchell,  Buckingham Research Group - Analyst   [43]
+--------------------------------------------------------------------------------
+ Hi, good morning.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [44]
+--------------------------------------------------------------------------------
+ Hi, Jim.
+
+--------------------------------------------------------------------------------
+ Jim Mitchell,  Buckingham Research Group - Analyst   [45]
+--------------------------------------------------------------------------------
+ Just a quick question on the expense reductions again. Can you at least give us a sense of is that mostly coming from headcount reductions and other efficiency gains or is there some pullback on the investment spend?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [46]
+--------------------------------------------------------------------------------
+ Well, I think as we've said, we're not going to be increasing investment spend at the same level that we increased it in 2011. In 2011, we've increased investment spend year-over-year by about $3.9 billion as we've talked about. We're not targeting a $3.9 billion increase in investment spend again next year.
+
+--------------------------------------------------------------------------------
+ Jim Mitchell,  Buckingham Research Group - Analyst   [47]
+--------------------------------------------------------------------------------
+ No, but is it going up or down I guess is the question?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [48]
+--------------------------------------------------------------------------------
+ Well the investment spend will go up slightly.
+
+--------------------------------------------------------------------------------
+ Jim Mitchell,  Buckingham Research Group - Analyst   [49]
+--------------------------------------------------------------------------------
+ Oh, okay.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [50]
+--------------------------------------------------------------------------------
+ We are not going to pull back from investing in the businesses but as we've discussed in the past, we do have an ongoing reengineering program. We again fully expect each one of our businesses to reduce expenses on an ongoing basis by 3% to 5% annually. This year, we took $1.9 billion out of our expense base. That's roughly 4% of last year's reported expenses and without going into trying to forecast details, you should expect that we would be able to do roughly another 4% next year which would take $2 billion out which leaves us then the ability to still invest in the business and deal with some level of continuing episodic expenses and still hit the overall reduction that Vikram and I talked about.
+
+--------------------------------------------------------------------------------
+ Jim Mitchell,  Buckingham Research Group - Analyst   [51]
+--------------------------------------------------------------------------------
+ Okay, that's helpful and one other question maybe in terms of reserve releases, you guys were a little later to that game than some of your peers. Is it fair to assume that maybe at a declining level but we should still see, assuming the environment continues at the current rate of improvement, that we would see more reserve releases?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [52]
+--------------------------------------------------------------------------------
+ Yes, given the assumptions that you put out there, that if things continue, the environment continues as it is and don't forget most of the reserve releases that we're doing now are really tied up in our two cards businesses so it's really a US type of view right now as far as reserve releases but we continue to see NCL rates decline in that business. We continue to see delinquencies improving so as long as the overall economy continues as it is now and it continues to improve, yes, you should continue to see some level of reserve releases.
+
+--------------------------------------------------------------------------------
+ Jim Mitchell,  Buckingham Research Group - Analyst   [53]
+--------------------------------------------------------------------------------
+ Okay, great. That's it for me, thanks.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [54]
+--------------------------------------------------------------------------------
+ Not a problem.
+
+--------------------------------------------------------------------------------
+Operator   [55]
+--------------------------------------------------------------------------------
+ Brendan Hopkins, UBS.
+
+--------------------------------------------------------------------------------
+ Brendan Hopkins,  UBS - Analyst   [56]
+--------------------------------------------------------------------------------
+ Hi. Just one quick question on expenses and then we can move on, I promise. Just you had said that $2.5 billion to $3 billion decline that you expect for 2012 does not include unforeseen episodic issues but do you bake in an elevated level of legal expense in those assumptions because it does seem like that's part of the environment that we're in at least for the near term.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [57]
+--------------------------------------------------------------------------------
+ Yes, I would say that the, when we're talking about a $2.5 billion to $3 billion reduction and that works you down to a number, you should assume that in that number, there is some level of ongoing litigation type expenses but we wouldn't expect it to be a repeat of 2011 where we had $2 billion worth of episodic legal and related expenses.
+
+--------------------------------------------------------------------------------
+ Brendan Hopkins,  UBS - Analyst   [58]
+--------------------------------------------------------------------------------
+ Okay, fair enough and then digging in a little bit into the equities results, this is the second quarter where we've had some weak derivatives results weighing down that business. Could you give maybe some color on what happened there and any steps that you might be taking to prevent more of the same?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [59]
+--------------------------------------------------------------------------------
+ Yes, let me just start and then I'll kind of let Vikram maybe finish about things to come. When you look at equities, I think there's two things that you got to think about. Overall, for the full year, in equities our revenues declined by about $1.3 billion. About half of that decline was tied up in the principal strategies business, that prop trading unit that we mentioned last quarter and again this quarter and that's a unit now where we have completed the wind down. The other half as far as the revenue shortfall year-over-year was really in equity derivatives and there's certainly at least an element in equity derivatives performance that is market related. And then there's probably some element of it also that is a bit of under performance on our part, but you've got to think in terms of the full year especially the second half of the year was definitely impacted by those losses in the principal strategies group and now we've wound that down.
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [60]
+--------------------------------------------------------------------------------
+ I think the only thing I'd add to that is volatility, volatility was extremely high and in addition to that, liquidity even in some of the most liquid markets like index options and index derivatives dried up dramatically and so when you're making markets for your clients, sometimes the market making reflects -- market making activity and market making P&L reflects the underlying nature of liquidity in the markets and was not as good a quarter as we would have liked.
+
+--------------------------------------------------------------------------------
+ Brendan Hopkins,  UBS - Analyst   [61]
+--------------------------------------------------------------------------------
+ Good enough. Thanks a lot.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [62]
+--------------------------------------------------------------------------------
+ Okay.
+
+--------------------------------------------------------------------------------
+Operator   [63]
+--------------------------------------------------------------------------------
+ Matt O'Connor, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+ Matt O'Connor,  Deutsche Bank - Analyst   [64]
+--------------------------------------------------------------------------------
+ Hi.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [65]
+--------------------------------------------------------------------------------
+ Hi, Matt.
+
+--------------------------------------------------------------------------------
+ Matt O'Connor,  Deutsche Bank - Analyst   [66]
+--------------------------------------------------------------------------------
+ A couple of maybe secondary questions here but as we think about just the business activity in Securities and Banking and then your position, you did have some comments that you proactively derisked and obviously these hedges that you have on have some costs to it. Is there a way to quantify kind of the proactive cost of hedging and derisking? I realize some of it is opportunistic costs but there's probably some direct costs as well?
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [67]
+--------------------------------------------------------------------------------
+ That's difficult. I mean obviously, John Gerspach has given you one line on the CDS hedges and that's one which was relatively difficult but we got to the numbers to tell you exactly where they are. I think the broader issue is what you have stated. We've derisked a lot of these businesses and when you have less risk to work you make less money and so the opportunity cost is an important piece including a derivative and other books when you carry a lot you have a lot of hedges in place, that can reduce the amount of revenues you generate. It's very hard to tell you that this is what it cost us because obviously, you can't run two businesses side by side, one with this and one without and so that's a difficult exercise. We've chosen just to tell you that we actually ran our books in a very cautious way and frankly, we thought that was exactly the right thing to do given the uncertainty that Europe represented.
+
+--------------------------------------------------------------------------------
+ Matt O'Connor,  Deutsche Bank - Analyst   [68]
+--------------------------------------------------------------------------------
+ Okay, and then just separately as we think about capital and the build to get to the 8% to 9% under Basel III, there's obviously the joint venture with Morgan Stanley and the brokerage business. Can you just remind us of when their call date is this year and the process at which basically to figure out the price and what the impact would be to the capital? I think it might free up 20, 30 basis points or so, just remind us about some of those moving pieces?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [69]
+--------------------------------------------------------------------------------
+ Yes, Matt. You pretty much have got it. The call date is either May 31 or June 1. I can't remember the exact date but I believe it's May 31 and what will happen is about a month before that time, Morgan Stanley will hopefully notify us of their intent to exercise their call to buy 14% of the joint venture, so that's 14% out of the 49% that we currently own. And if we don't immediately reach agreement on a price then we each agree on a third party arbitrator who will come in and set a price.
+
+--------------------------------------------------------------------------------
+ Matt O'Connor,  Deutsche Bank - Analyst   [70]
+--------------------------------------------------------------------------------
+ Okay, am I right that when the deal was struck there was a deal value of 10 and I think at least the media was reporting that the bid ask spread was like $1 billion or so plus or minus?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [71]
+--------------------------------------------------------------------------------
+ I don't know what the media reports.
+
+--------------------------------------------------------------------------------
+ Matt O'Connor,  Deutsche Bank - Analyst   [72]
+--------------------------------------------------------------------------------
+ Okay, thank you.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [73]
+--------------------------------------------------------------------------------
+ All right Matt.
+
+--------------------------------------------------------------------------------
+Operator   [74]
+--------------------------------------------------------------------------------
+ Chris Kotowski, Oppenheimer.
+
+--------------------------------------------------------------------------------
+ Chris Kotowski,  Oppenheimer & Co. - Analyst   [75]
+--------------------------------------------------------------------------------
+ Most of my questions actually have been asked but if you've been derisking the trading books, should we see any of that in terms of risk weighted assets coming down?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [76]
+--------------------------------------------------------------------------------
+ You know, Chris, I think you'll see a couple things. One, you can see certainly in the just the level of assets that we've got on our balance sheet right now, balance sheet assets are down. When we publish our K, you'll see that our average VAR is down quarter on quarter. More importantly, and something that you won't see though is the way that we really manage the businesses is by applying continues stress test on our businesses and overall, I'd say that the stress losses, in the second half of this year, on our various trading books were reduced significantly compared to the levels that would have existed at the end of the second quarter. You're more likely to see this on a Basel II or Basel III risk weighting assets so that's something that as we get more into the later part of the year we can probably talk about.
+
+--------------------------------------------------------------------------------
+ Chris Kotowski,  Oppenheimer & Co. - Analyst   [77]
+--------------------------------------------------------------------------------
+ That's it for me then, thanks.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [78]
+--------------------------------------------------------------------------------
+ Okay, Chris.
+
+--------------------------------------------------------------------------------
+Operator   [79]
+--------------------------------------------------------------------------------
+ Moshe Orenbuch, Credit Suisse.
+
+--------------------------------------------------------------------------------
+ Moshe Orenbuch,  Credit Suisse - Analyst   [80]
+--------------------------------------------------------------------------------
+ Great, thanks.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [81]
+--------------------------------------------------------------------------------
+ Hi, Moshe.
+
+--------------------------------------------------------------------------------
+ Moshe Orenbuch,  Credit Suisse - Analyst   [82]
+--------------------------------------------------------------------------------
+ I guess given you talked about these expense reductions kind of not like contingent on the environment, this is what your plan would be kind of in normal course for 2012 and presumably there are contingency plans above and beyond that, right? That's-- but I guess the question is some of this must be being phased in and what's the, what is it going to be in terms of the run rate by the end of 2012? Will it be lower than where we're starting the year?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [83]
+--------------------------------------------------------------------------------
+ Well, I'm not going to forecast the run rate by the end of 2012 but again, when you talk about things being phased in and I don't mean to continuing to beat a dead horse but we have an ongoing cost reduction program built into each one of our businesses and so we are continuously taking costs out of the business. Last year, we did take $1.9 billion of expense out of our businesses. Now we chose to invest $3.9 billion, an incremental $3.9 billion in the businesses so that overwhelmed the cost reductions but as we pare down on increasing that level of investment, the cost reductions that we've got can cover the level of investment and actually drop some cost savings to the bottom line.
+
+--------------------------------------------------------------------------------
+ Moshe Orenbuch,  Credit Suisse - Analyst   [84]
+--------------------------------------------------------------------------------
+ Got it. Just to kind of flush that out because I think in response to an earlier question, John, you'd said that you would be increasing those investments. When you meant increasing you meant increasing above zero from like a zero based budgeting type of thing?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [85]
+--------------------------------------------------------------------------------
+ Yes, if you take today as saying okay, the level of investment spending that I baked into the business is now my now zero base, we will be increasing that level of spend. We're going to open up more branches.
+
+--------------------------------------------------------------------------------
+ Moshe Orenbuch,  Credit Suisse - Analyst   [86]
+--------------------------------------------------------------------------------
+ And presumably given the fact you've talked about kind of reaching positive expense leverage in more -- in the entire Company as opposed to just portions of the Company that $1.9 billion number should be a larger number as well as the $3.9 billion being smaller?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [87]
+--------------------------------------------------------------------------------
+ Yes.
+
+--------------------------------------------------------------------------------
+ Moshe Orenbuch,  Credit Suisse - Analyst   [88]
+--------------------------------------------------------------------------------
+ Okay.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [89]
+--------------------------------------------------------------------------------
+ Yes.
+
+--------------------------------------------------------------------------------
+ Moshe Orenbuch,  Credit Suisse - Analyst   [90]
+--------------------------------------------------------------------------------
+ Great. Thanks very much.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [91]
+--------------------------------------------------------------------------------
+ Okay, Moshe.
+
+--------------------------------------------------------------------------------
+Operator   [92]
+--------------------------------------------------------------------------------
+ Jason Goldberg, Barclays Capital.
+
+--------------------------------------------------------------------------------
+ Jason Goldberg,  Barclays Capital - Analyst   [93]
+--------------------------------------------------------------------------------
+ Thanks. Just a bit of clarification. It looked like trading fell off as you mentioned a lot in the last three weeks of the year given your comments earlier in the quarter but was that you mentioned principal strategies. Was that just more derisking you did in the last three weeks, was that tied to the year-end kind of mark process or just maybe a bit more color in terms of what actually drove that?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [94]
+--------------------------------------------------------------------------------
+ Principal strategies was a business that we were winding down throughout the second part of the year, so that in and of itself wasn't a last three weeks of December rush on it, so that you can kind of take that off the table. December was just a month that we saw as being remarkably weak. I'd characterize this December as being something beyond what we would normally expect to see in seasonality. It just, people just sat on the sidelines and we just didn't see a lot going on during the month of December.
+
+--------------------------------------------------------------------------------
+ Jason Goldberg,  Barclays Capital - Analyst   [95]
+--------------------------------------------------------------------------------
+ Got it. And then in your comments you mentioned that mortgage re-default rates were coming in better than you'd expected. Any kind of hypothesis in terms of what's driving that?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [96]
+--------------------------------------------------------------------------------
+ Well when you get into the HAMP process, assuming you've done it correctly, you basically have re-underwritten the loan and it's actually quite an extensive process and our re-default rates now on our HAMP modifications are running at something less than 15%, so that is clearly below certainly the expectations that us or the industry would have normally had going into the process. And then some of that carries over into just the normal modifications that we do and I'd say that we're in an enhanced modification mode and so even on our non-HAMP modifications, the re-default rates are running less than 25%.
+
+--------------------------------------------------------------------------------
+ Jason Goldberg,  Barclays Capital - Analyst   [97]
+--------------------------------------------------------------------------------
+ Interesting, and then I guess just lastly, obviously you're moving retail partner cards back into Citi Corp, one main financials I guess has been a lot of discussion around that. Just your thoughts around the ultimate outcome for that unit.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [98]
+--------------------------------------------------------------------------------
+ Well one main financial again is that's the unit that we would like to find a buyer for and I think that that's where that's going to stay. It's a business that's a good business. You take a look at the -- some of the information we give you in the appendix slides, it's generating positive pre-tax income now for several quarters in a row but it's just not a business that we see fitting with the strategy of Citicorp, so it's hard to see how we would just suddenly decide to make a transfer of that into Citicorp. That's just one that we're going to have to find the right buyer at the right time and deal with it that way.
+
+--------------------------------------------------------------------------------
+ Jason Goldberg,  Barclays Capital - Analyst   [99]
+--------------------------------------------------------------------------------
+ Got it. Thank you.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [100]
+--------------------------------------------------------------------------------
+ Okay.
+
+--------------------------------------------------------------------------------
+Operator   [101]
+--------------------------------------------------------------------------------
+ Matt Burnell, with Wells Fargo.
+
+--------------------------------------------------------------------------------
+ Matt Burnell,  Wells Fargo Securities - Analyst   [102]
+--------------------------------------------------------------------------------
+ Good morning, gentlemen. Just a couple of questions. John, you mentioned one of the what appears to be one of the major benefits of some of the deleveraging of the European banks. I'm curious outside of Transaction Services more in the lending businesses are you seeing obvious signs there where you're gaining market share as a result of some of the pullback of the European banks and is that, do you expect that to help your loan growth this year?
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [103]
+--------------------------------------------------------------------------------
+ I think the most obvious place where you see it is in trade finance and that's a pretty big number in terms of increase and I think we can continue to see good momentum there, particularly given our global network. Corporate lending is a little bit more sporadic in the sense that not every corporation needs the liquidity. Lots of corporations even in Europe have a lot of cash and we think that some benefit may also accrue in terms of capacity rationalization and things like derivatives markets and those kind of places where pricing structures may change on that, and so I think the bigger impact as I said, the European banking system has a gross number of about $40 trillion of assets. As you can guess that's substantially larger than the US, it depends on how you measure it and all of that but it is a multiple. That number is coming down. That number is coming down, it's going to impact a lot of different aspects and not only in terms of product lines but also geographically I think the emerging market businesses are ones where we are quite present. And as I said earlier, the numbers that we understand, the 65% of emerging market debt is held by the European banking system. Well, that creates certain types of opportunities there as well so it has to play out. It's going to play out in a very steady way because we've got to underwrite everything as carefully as we underwrite anything else, but the trends are certainly in the favor of those banks that have the capacity to step in.
+
+--------------------------------------------------------------------------------
+ Matt Burnell,  Wells Fargo Securities - Analyst   [104]
+--------------------------------------------------------------------------------
+ And if I can just a couple of quick questions on the consumer side of things. Domestically are you still sticking to your goal of achieving positive operating leverage in North America basically this year and has that accelerated at all given some of the positive trends you saw this quarter?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [105]
+--------------------------------------------------------------------------------
+ I'm not going to accelerate the guidance on that at this point in time but we do, we are reaffirming that we expect North America Regional Consumer Banking to generate positive operating leverage by the end of this year, but I'm not going to advance that timeline just yet.
+
+--------------------------------------------------------------------------------
+ Matt Burnell,  Wells Fargo Securities - Analyst   [106]
+--------------------------------------------------------------------------------
+ Fair enough and then on EMEA Consumer Banking the credit trends there looked quite good in the fourth quarter, certainly relative to the last couple quarters. I guess that surprises me a little bit given some of the concerns raised in the media about the slowdown in several of the economies in Western and Central Europe. Guess I'm just curious how you're thinking about the potential for credit trend weakening in the consumer businesses in EMEA given all of the challenges in the Euro zone?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [107]
+--------------------------------------------------------------------------------
+ We actually, as you've noted, we really haven't seen that impact on our consumer business. Now remember, even in EMEA, it's the same strategy as we have everywhere around the world where we're focused on a specific customer segment. But again, EMEA is a rather smaller part of our consumer franchise but we don't see issues right now with our book of business in EMEA.
+
+--------------------------------------------------------------------------------
+ Matt Burnell,  Wells Fargo Securities - Analyst   [108]
+--------------------------------------------------------------------------------
+ Okay, thanks very much.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [109]
+--------------------------------------------------------------------------------
+ Okay.
+
+--------------------------------------------------------------------------------
+Operator   [110]
+--------------------------------------------------------------------------------
+ Betsy Graseck, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+ Betsy Graseck,  Morgan Stanley - Analyst   [111]
+--------------------------------------------------------------------------------
+ Hi, good morning.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [112]
+--------------------------------------------------------------------------------
+ Hi, Betsy.
+
+--------------------------------------------------------------------------------
+ Betsy Graseck,  Morgan Stanley - Analyst   [113]
+--------------------------------------------------------------------------------
+ Quick question on the lending business and the S&B. You highlighted the variances from the hedge gains and losses. Just wanted to understand what some of those big drivers are?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [114]
+--------------------------------------------------------------------------------
+ I'm sorry what are the big drivers in the hedge gains and losses?
+
+--------------------------------------------------------------------------------
+ Betsy Graseck,  Morgan Stanley - Analyst   [115]
+--------------------------------------------------------------------------------
+ Yes, what's driving the variance there?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [116]
+--------------------------------------------------------------------------------
+ Counterparty spreads. Go ahead.
+
+--------------------------------------------------------------------------------
+ Betsy Graseck,  Morgan Stanley - Analyst   [117]
+--------------------------------------------------------------------------------
+ So then the follow-up is just given the down grades that happened, I know it's at a country level last week, does that impact what kind of gains or losses you'd be expecting this coming quarter?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [118]
+--------------------------------------------------------------------------------
+ No, I don't want to say that a lot of our book is certainly, there's not a lot of our book that's concentrated in Western Europe which is where I think you've seen those down grades that you're talking about. And then there's always that question as to whether or not the country rating drives down the corporate or the financial institution of rating. So most of our CDS hedges are against either individual, these are specific hedges against the risks in our loan portfolio and so they're either single name risks or something where we've been able to construct a hedge against an industry group but it's really not tied back into what you may be thinking about Betsy as far as the European sovereign CDS. That's not what we're talking about.
+
+--------------------------------------------------------------------------------
+ Betsy Graseck,  Morgan Stanley - Analyst   [119]
+--------------------------------------------------------------------------------
+ Is there anything else that the recent down grades at the country level would impact your look forward?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [120]
+--------------------------------------------------------------------------------
+ That would impact my what?
+
+--------------------------------------------------------------------------------
+ Betsy Graseck,  Morgan Stanley - Analyst   [121]
+--------------------------------------------------------------------------------
+ Your look forward?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [122]
+--------------------------------------------------------------------------------
+ No, no. Not from where we are positioned right now.
+
+--------------------------------------------------------------------------------
+ Betsy Graseck,  Morgan Stanley - Analyst   [123]
+--------------------------------------------------------------------------------
+ Okay, thanks.
+
+--------------------------------------------------------------------------------
+Operator   [124]
+--------------------------------------------------------------------------------
+ Gerard Cassidy, RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+ Steve Jue,  RBC Capital Markets - Analyst   [125]
+--------------------------------------------------------------------------------
+ Hi, everyone. This is actually Steve Jue in for Gerard.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [126]
+--------------------------------------------------------------------------------
+ Hi.
+
+--------------------------------------------------------------------------------
+ Steve Jue,  RBC Capital Markets - Analyst   [127]
+--------------------------------------------------------------------------------
+ Regarding Holdings, how much of the expenses, what percentage would you say is legal in nature?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [128]
+--------------------------------------------------------------------------------
+ I don't have that, I've got the growth year-on-year but when you take a look at the episodic expenses in Holdings for this year, I'd have to guess at it, so I'm sorry, I just don't have that in front of me.
+
+--------------------------------------------------------------------------------
+ Steve Jue,  RBC Capital Markets - Analyst   [129]
+--------------------------------------------------------------------------------
+ Okay, that's fine. And also your loan loss reserves, recognize that they are set by classified loans, do you see that in a normalized credit environment that you'll get it below 2% from where it is right now, I think it's at 4%?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [130]
+--------------------------------------------------------------------------------
+ Yes, it's a little over that actually it's 4.7%.
+
+--------------------------------------------------------------------------------
+ Steve Jue,  RBC Capital Markets - Analyst   [131]
+--------------------------------------------------------------------------------
+ Yes, right.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [132]
+--------------------------------------------------------------------------------
+ But don't forget that's a mix of both corporate business and consumer business. I think you're going to have naturally slightly higher reserves in your consumer business so I don't think we would get down to having an LLR ratio of 2% for the whole business. I don't want to sit here and forecast one for you but 2% would sound pretty aggressive to me.
+
+--------------------------------------------------------------------------------
+ Steve Jue,  RBC Capital Markets - Analyst   [133]
+--------------------------------------------------------------------------------
+ Got it, and just last question and I apologize if this has already been mentioned. What are you expecting for your tax rate in 2012 effective?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [134]
+--------------------------------------------------------------------------------
+ Well, we don't talk about forecasting individual year tax rates. I'd say that as we continue to get back to a more normal operating environment, our tax rate should be something in the high 20s in the say 28% range.
+
+--------------------------------------------------------------------------------
+ Steve Jue,  RBC Capital Markets - Analyst   [135]
+--------------------------------------------------------------------------------
+ Great. Perfect, that's it.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [136]
+--------------------------------------------------------------------------------
+ Okay.
+
+--------------------------------------------------------------------------------
+ Steve Jue,  RBC Capital Markets - Analyst   [137]
+--------------------------------------------------------------------------------
+ Thank you.
+
+--------------------------------------------------------------------------------
+Operator   [138]
+--------------------------------------------------------------------------------
+ Todd Hagerman, Sterne, Agee.
+
+--------------------------------------------------------------------------------
+ Todd Hagerman,  Sterne, Agee & Leach, Inc. - Analyst   [139]
+--------------------------------------------------------------------------------
+ Just quickly in terms of the Volker proposal. We know the comment period ends next month in February and assuming, well we don't know the rules, assuming the final rules come out later this spring for January implementation next year, how should we kind of think about the repositioning or the timeline in terms of implementing that rule so to speak? Is that kind of a second half 2012 kind of event? I mean how should we kind of think about the residual impact of that proposal?
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [140]
+--------------------------------------------------------------------------------
+ That's a logistically difficult question, obviously because there are tremendous amount of details that yet we need to know about and we don't know what they are. A lot of that has to do with the certifications and other things up and down the chain in terms of proprietary trading and how you approach making markets, so let me answer it this way. I think the broad based approach to Volker which is about prop trading, private equity, other things we've already started making and those changes are occurring as John said earlier, a lot of them are behind us, some more things to be done but a lot of them are behind us. In terms of sort of the mechanics of putting in place a system we've started obviously as best as we can but I can't tell you exactly when everything is going to come online yet because I don't know all of the details.
+
+--------------------------------------------------------------------------------
+ Todd Hagerman,  Sterne, Agee & Leach, Inc. - Analyst   [141]
+--------------------------------------------------------------------------------
+ Yes, I guess I'm more specifically talking about the fixed income component as opposed to the equities component which is obviously more clear cut.
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [142]
+--------------------------------------------------------------------------------
+ Again, I can't tell you off the top of my head exactly when it all comes together.
+
+--------------------------------------------------------------------------------
+ Todd Hagerman,  Sterne, Agee & Leach, Inc. - Analyst   [143]
+--------------------------------------------------------------------------------
+ And then maybe just kind of a follow-up to the earlier discussion, Vikram, you mentioned Asia and your positive outlook there. Could you just and John perhaps too, just give us a little bit more flavor or color in terms of just the restructuring and the repositioning that you've been doing in both EMEA and Asia, and as you mentioned before, kind of the secular component but I'm just curious, just kind of the profitability was just less than expected this quarter in particular. I'm just wondering again how we should think about that business, how you're repositioning it and going forward.
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [144]
+--------------------------------------------------------------------------------
+ Well, I mean let me talk about it this way. The biggest broad based repositioning is towards less resources in some of the more developed markets and more resources in the emerging markets. That's a very big broad piece. I think that works through all our businesses, consumer Securities and Banking, et cetera, but that's one big piece. The second big piece of restructuring is still towards those businesses that are more services oriented, Local Consumer Banking, those kind of -- restructuring towards the kind of activities that allow us to serve our clients by providing them services and loans, that's the second type of restructuring. Third type of restructuring is in reaction to our view as to what volumes are going to be in the different product areas. I think it is clear to us that some of the credit markets, securitization markets, some of the other derivative markets are going to have different kind of volumes than what we've been used to, we've been restructuring towards that. We've been restructuring towards volumes that may be lower as a result of Basel III charges in certain areas as well. So that's the third big round of restructuring. And I guess on the volumes, the last part I would say is our general view is that with more companies that will over time go public and more credit markets in the emerging markets, that we're skewing our resources a little bit more in that area so that's the big picture kind of perspective which John, you want to add to that?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [145]
+--------------------------------------------------------------------------------
+ Well, when you take a look at Asia, don't forget that in this quarter, we actually had that Japan DTA write-down impacted the Asia geographies, so when you're taking a look at Asia's results in Citicorp, about $120 million of the write-off, I think it's $122 million of the write-off impacted that, so that's a direct impact on the bottom line. The other thing is Asia, the consumer business we talked a little bit about having an impact on lower investment sales this quarter so that certainly impacts both the quarter-on-quarter as well as the year-on-year comparison. And when you take a look at what went on in Securities and Banking, they actually had a blowout quarter in the third quarter, so you're comparing fourth quarter to a blowout third quarter which makes any sort of comparison difficult. They are down revenues from where they were last year and that's got a little bit to do with the equities derivatives market where we had a bit more of that impact hit us regionally in Asia than anything else. So I think there's just a couple of, it's a couple of singular events that hit in the quarter like the DTA write-down and then some of it is a bit of a comparability issue where they had such a strong third quarter that it's a little difficult to compare fourth to third.
+
+--------------------------------------------------------------------------------
+ Todd Hagerman,  Sterne, Agee & Leach, Inc. - Analyst   [146]
+--------------------------------------------------------------------------------
+ That's helpful John, and so I'm just assuming again just all else being equal that again, the positive operating leverage kind of where we were year-over-year that that would be the expectation for 2012 as well.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [147]
+--------------------------------------------------------------------------------
+ Yes, we're -- certainly our Asia Consumer Banking business which is the one we're giving that guidance on, we expect that positive operating leverage, now they've had it two consecutive quarters, we expect that to continue.
+
+--------------------------------------------------------------------------------
+ Todd Hagerman,  Sterne, Agee & Leach, Inc. - Analyst   [148]
+--------------------------------------------------------------------------------
+ Great. Thanks very much.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [149]
+--------------------------------------------------------------------------------
+ Not a problem.
+
+--------------------------------------------------------------------------------
+Operator   [150]
+--------------------------------------------------------------------------------
+ Mike Mayo, CLSA.
+
+--------------------------------------------------------------------------------
+ Mike Mayo,  Credit Agricole Securities - Analyst   [151]
+--------------------------------------------------------------------------------
+ Good afternoon. My question relates to the balance between investing for growth and shrinking for profitability and the reason I ask that is just looking at the operating leverage quarter-over-quarter, year-over-year, three years, five years or 10 years it looks like you've had negative operating leverage. So the real specific questions would be number one, are you cutting enough with revenues down $8 billion last year, you're looking to cut $2.5 billion to $3 billion, seems like maybe you could cut more. The second question is are you investing too much, if you look at the gap between revenues and expense, the growth last year, I get $11 billion taking your numbers might be $9 billion or $10 billion but you're still going to invest I guess $4 billion or more taking last year's level. And the third question is perhaps can you reduce the number of countries where you do business?
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [152]
+--------------------------------------------------------------------------------
+ Let me start, John, you answer as well.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [153]
+--------------------------------------------------------------------------------
+ Okay.
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [154]
+--------------------------------------------------------------------------------
+ Let's be clear. I think in any business like ours, you got a little bit of both going on. For example, we are investing against the emerging market consumer businesses because we expect them to grow and at the same time, we've also demonstrated an operating leverage which is just exactly to your point, which is having made the investments to start with from here on we expect them to self-fund a lot of the growth that's going to come from that. That's an example. We then go to our next business which is the US consumer business. We talked about investing in that. A lot of what we had to do is normalize some of the marketing spend in cards and as well, for that matter in consumer business, normalize marketing spend around the world. We've done that and we expect to see operating leverage coming out of that business as well. That's investment but investment in a way that we think generates the operating leverage.
+
+ Then you go to GTS. We've talked about that as well. There we expect operating leverage some time this year, middle of this year, something of that sort. And then you really get to the Securities and Banking business which we've talked about before, that is a business which has been impacted by a combination of regulation, market uncertainty, volumes, a variety of different things. And that's a business where we are doing a little bit of both again, and by that I mean that in certain of our local market foreign exchange businesses, local market consumer businesses, not consumer -- trading businesses, there is some tweaking required in terms of investment. But by and large, there are a large amount of businesses where we have reduced the amount of resources and hence the restructuring charge, so that's sort of the full picture of what's going on.
+
+ I think John also stated that $3.9 billion may have been investment number last year but that's not the number next year. It's not going to be zero but it's not going to be $3.9 billion and again, geared towards this kind of operating leverage momentum that we started creating and plan to create going forward. Now, that's to us, the pattern of our investment and disinvestment and it's consistent with where we think growth and earnings are going to come from going forward. John, you want to add to that?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [155]
+--------------------------------------------------------------------------------
+ The only thing I'd say, Mike, when you take a look at the revenues and you take a look at the overall Citigroup revenues, don't forget that the single biggest driver of the revenue reduction year-over-year is the revenue reduction in Citi Holdings. Citi Holdings, revenues are down 33% year-over-year, as you would expect because we're driving the assets down, so maybe a better way to look at it would be just on the Citigroup, Citicorp plus Corp other, and again, there certainly we had revenues down year-over-year. It's 12% and then you get into the individual business characteristics that Vikram mentioned and that's really where we're focused. But I think we've got clean line of sight to positive operating leverage in the International Consumer Banking businesses, in North America Consumer Banking business, in GTS, and the discussion keeps on coming back to what can we do to Securities and Banking and that's a business that we are very focused on.
+
+--------------------------------------------------------------------------------
+ Mike Mayo,  Credit Agricole Securities - Analyst   [156]
+--------------------------------------------------------------------------------
+ I guess if you strip this a few ways you can still come up with negative operating leverage even at Citicorp revenues down over $3 billion.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [157]
+--------------------------------------------------------------------------------
+ It is. It is down this year. You don't have to strip it out. It's down.
+
+--------------------------------------------------------------------------------
+ Mike Mayo,  Credit Agricole Securities - Analyst   [158]
+--------------------------------------------------------------------------------
+ I guess the general question is--
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [159]
+--------------------------------------------------------------------------------
+ The question is where are we going forward.
+
+--------------------------------------------------------------------------------
+ Mike Mayo,  Credit Agricole Securities - Analyst   [160]
+--------------------------------------------------------------------------------
+ Well Vikram, are you satisfied with the operating leverage the way it is today? I guess that's the core question.
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [161]
+--------------------------------------------------------------------------------
+ We would like to see better markets and therefore, we would like to see more revenues in Securities and Banking. That to us has been the biggest delta on a year-over-year, quarter-over-quarter basis. No, I'm not happy with those revenues in those businesses. A lot of that's related to the market. Some of it is related in terms of our continuing to execute in the right way, but what John said is important. The plan has been to use 2011 as a year where we've made some of the catch up investments, renormalize some of the investments, put money to work where over the -- from 2008 through 2010, we had operated businesses very tightly and to use 2012 as the year where we would start showing you operating leverage business by business by business. Some of that's already started and some of that we expect to see this year but that's the goal.
+
+--------------------------------------------------------------------------------
+ Mike Mayo,  Credit Agricole Securities - Analyst   [162]
+--------------------------------------------------------------------------------
+ Last follow-up and I'll try one more time. Just are you satisfied with the expenses that are under your control that you're doing really everything that you can?
+
+--------------------------------------------------------------------------------
+ Vikram Pandit,  Citigroup Inc. - CEO, Citigroup   [163]
+--------------------------------------------------------------------------------
+ The answer to that is yes and not only that, I think John talked about $1.9 billion of reengineering, we have a robust reengineering plan in place. Don't forget that John also talked about a $2 billion of one-timers and legal. No I'm not happy with those and those are not the kind of expenses we want to see recur as well but the Company and the businesses are on top of driving operating leverage and operating efficiency. And we are focused on keeping our expense base as low as possible just as we are in this environment, focused on keeping our risks under control and keeping a lot of liquidity on our balance sheet. Because we do continue to see a lot of issues out there particularly in Europe that we are all going to have to be prepared for.
+
+--------------------------------------------------------------------------------
+ Mike Mayo,  Credit Agricole Securities - Analyst   [164]
+--------------------------------------------------------------------------------
+ All right, thank you.
+
+--------------------------------------------------------------------------------
+Operator   [165]
+--------------------------------------------------------------------------------
+ Betsy Graseck, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+ Betsy Graseck,  Morgan Stanley - Analyst   [166]
+--------------------------------------------------------------------------------
+ Hi, just one quick follow-up. How much of the investment spend in 2011 was in the S&B business, the Securities and Banking business?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [167]
+--------------------------------------------------------------------------------
+ The incremental investment spending inSecurities and Banking was about $1 billion, Betsy.
+
+--------------------------------------------------------------------------------
+ Betsy Graseck,  Morgan Stanley - Analyst   [168]
+--------------------------------------------------------------------------------
+ Okay, and is that going to persist into 2012 do you think? That's part of the investment spend?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [169]
+--------------------------------------------------------------------------------
+ I don't see an incremental $1 billion needing to be spent in that business. That was money that we needed to spend in order to bring on some of the additional banking teams that we did. It also had some systems level investments in there.
+
+--------------------------------------------------------------------------------
+ Betsy Graseck,  Morgan Stanley - Analyst   [170]
+--------------------------------------------------------------------------------
+ But does that $1 billion continue in 2012 or does it go away?
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [171]
+--------------------------------------------------------------------------------
+ Well that $1 billion is in our expense base and it's part of what we need to address.
+
+--------------------------------------------------------------------------------
+ Betsy Graseck,  Morgan Stanley - Analyst   [172]
+--------------------------------------------------------------------------------
+ Got it. Okay, thanks.
+
+--------------------------------------------------------------------------------
+ John Gerspach,  Citigroup Inc. - CFO, Citigroup   [173]
+--------------------------------------------------------------------------------
+ Okay.
+
+--------------------------------------------------------------------------------
+Operator   [174]
+--------------------------------------------------------------------------------
+ There are no additional questions at this time. I'll now turn the call back over to John Andrews.
+
+--------------------------------------------------------------------------------
+ John Andrews,  Citigroup Inc. - Head of IR   [175]
+--------------------------------------------------------------------------------
+ Great, thank you everyone for taking the time this morning and this afternoon to listen to the call. Obviously, if you have any follow-ups contact Investor Relations and this call will be available for replay on our website for those who need to re-listen to it. Otherwise thanks and have a good afternoon.
+
+--------------------------------------------------------------------------------
+Operator   [176]
+--------------------------------------------------------------------------------
+ Thank you, ladies and gentlemen for participating in the Citigroup earnings conference call fourth quarter 2011. You may now disconnect.
+
+
+
+
+
+
+--------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------
+Copyright 2013 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------
