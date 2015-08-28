@@ -1,5 +1,4 @@
-# ruby_code_challenge
-Test for UTSC Software Developer Assistants
+# Ruby Coding Challenge for UTSC Software Developer Assistants
 
 The research team is looking for developers to help build an application that uses Natrual Language Processing to give insights about the personalities of company managers.
 
