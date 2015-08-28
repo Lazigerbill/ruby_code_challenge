@@ -17,4 +17,17 @@ With the database created(potentially tens of thousands of transcripts), we can 
 
 In this repository, you will see 3 sample transcripts.  You are required to write some codes to parse out these files correctly to return the following output:
 
-![Short answer](https://github.com/Lazigerbill/ruby_code_challenge/blob/master/shrtans.jpg "Short Answer")
+![Short answer](https://github.com/Lazigerbill/ruby_code_challenge/blob/master/shrtans1.jpg "Short Answer")
+
+Please place all your code in the ruby file "transcript_parser.rb", which is already created for you in this repository.  You can begin by forking this repository.
+
+*****************************************
+For bonus, try to parse out the speaker and the speaker's transcript, count the words of each speaker.
+![Long answer](https://github.com/Lazigerbill/ruby_code_challenge/blob/master/longans.jpg "Long Answer")
+
+
+
+The deadline to hand in your work is September 2nd(Wednesday) 11:59pm ET.  
+Email bill.chau@utoronto.ca for questions.
+
+Good luck!
